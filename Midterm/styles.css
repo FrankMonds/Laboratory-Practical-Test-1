@@ -1,0 +1,54 @@
+body {
+    background: rgb(25,7,7);
+    background: linear-gradient(34deg, rgba(25,7,7,1) 14%, rgba(62,0,0,1) 83%);
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+}
+
+#icons {
+    background: rgb(28,10,10);
+    background: linear-gradient(32deg, rgba(28,10,10,1) 14%, rgba(45,2,2,1) 83%);
+    text-align: center;
+}
+
+#home-icon, #page1-icon, #page2-icon, #page3-icon, #ref-icon{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 3rem;
+    height: 5rem;
+}
+
+#vid {
+    background: rgb(25,7,15); 
+    background: linear-gradient(219deg, rgba(25,7,15,1) 14%, rgba(62,0,19,1) 83%);
+}
+
+#actual-video {
+    width: 75%;
+    max-width: 75%;
+    border: none;
+    display: block;
+    margin: 1rem auto;
+}
+
+hr {
+    border-color: rgb(37, 4, 12);
+    background-color: rgb(136, 21, 21);
+    height: 2rem;
+}
+
+footer {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background-color: rgb(136, 21, 21);
+    text-align: right;
+    color: white;
+}
+
+a:link {
+    color: rgb(80, 156, 255);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(75, 201, 255);
+}
